@@ -6,7 +6,7 @@
     2. Coleta de dados técnicos (CPU, RAM, Disco, Rede).
     3. Geração de log automático na Área de Trabalho.
 .AUTHOR
-    Seu Nome
+    Giovanna Luisa
 #>
 
 # --- Configurações Iniciais ---
